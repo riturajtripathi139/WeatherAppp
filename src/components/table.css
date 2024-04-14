@@ -1,0 +1,32 @@
+*{
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  background-color: rgb(178, 19, 19);
+  color: #fca311;
+  margin: auto;
+  display: grid;
+  place-content: center;
+ 
+}
+
+
+table {
+    border-collapse: collapse;
+    max-width: 90vw;
+    width: 100%;
+    margin: auto;
+  }
+  table th, table td {
+    padding: 0.5rem 1.25rem;
+    border: 0.05rem solid #e5e5e5;
+  }
+  table{
+    border: 0px;
+    color: #ddd;
+  }
+  th{
+    background-color: #fca311;
+    color: #152039;
+  }
