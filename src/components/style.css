@@ -59,6 +59,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 100px;
+  flex-direction: column-reverse;
 }
 
 
@@ -198,6 +199,7 @@ font-size: 27px;
 
 .savebtn{
   display: flex;
-  width: 20Vw;
+  width: 100%;
   justify-content: end;
+  padding: 0 1.25rem;
 }
