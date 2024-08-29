@@ -44,11 +44,12 @@ a{
     height: 30px;
     margin-right: 65px;
     margin-bottom: 15px;
+    justify-content: center;
     background-color: rgb(203, 199, 225);
     color: #fff;
     border: none;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     cursor: pointer;
-    justify-content: center;
+
 }
